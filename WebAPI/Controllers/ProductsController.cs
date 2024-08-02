@@ -29,7 +29,7 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
-        [HttpGet("getall")]
+        [HttpGet("getlist")]
         public IActionResult GetList()
         {
             var result = _productService.GetList();

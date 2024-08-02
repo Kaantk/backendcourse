@@ -17,3 +17,4 @@ C:\Users\ktetik\Desktop\NorthwindBackend\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\ktetik\Desktop\NorthwindBackend\Business\obj\Debug\net8.0\ref\Business.dll
 C:\Users\ktetik\Desktop\NorthwindBackend\Business\bin\Debug\net8.0\DataAccess.dll
 C:\Users\ktetik\Desktop\NorthwindBackend\Business\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ktetik\Desktop\NorthwindBackend\Business\obj\Debug\net8.0\Business.sourcelink.json

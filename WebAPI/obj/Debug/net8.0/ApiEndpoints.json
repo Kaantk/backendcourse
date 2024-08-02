@@ -33,16 +33,6 @@
   },
   {
     "ContainingType": "WebAPI.Controllers.ProductsController",
-    "Method": "GetList",
-    "RelativePath": "api/Products/getall",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebAPI.Controllers.ProductsController",
     "Method": "GetById",
     "RelativePath": "api/Products/getbyid",
     "HttpMethod": "GET",
@@ -55,6 +45,16 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductsController",
+    "Method": "GetList",
+    "RelativePath": "api/Products/getlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

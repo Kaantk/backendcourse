@@ -15,3 +15,4 @@ C:\Users\ktetik\Desktop\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.
 C:\Users\ktetik\Desktop\NorthwindBackend\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\ktetik\Desktop\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\ktetik\Desktop\NorthwindBackend\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\ktetik\Desktop\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
