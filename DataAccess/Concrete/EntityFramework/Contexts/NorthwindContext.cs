@@ -16,5 +16,16 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Categories> Categories { get; set; }
+
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Categories>(entity =>
+        //    {
+        //        entity.HasKey(e => e.CategoryId);
+        //    });
+
+        //    base.OnModelCreating(modelBuilder);
+        //}
     }
 }
