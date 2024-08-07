@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\core\\utilities\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\utilities\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E8B4C8-785D-41F2-988C-38A32C76B2F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9349273-E3E2-4568-AAFE-DB79315C5800}|DataAccess\\DataAccess.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9349273-E3E2-4568-AAFE-DB79315C5800}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,24 +131,8 @@
       "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE46C2D1-83FF-4653-8D4C-4175D23F4E06}|Core\\Core.csproj|solutionrelative:core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2F24DF-CB67-48B8-8582-B3FD25721892}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1191A9C0-0106-4BC8-A901-E3E4F18159CB}|Entities\\Entities.csproj|c:\\users\\ktetik\\desktop\\northwindbackend\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -169,324 +189,82 @@
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClaimExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:54:04.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SigningCredentialsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:29:26.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SecurityKeyHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:24:22.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:25:41.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITokenHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA6wAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:17:38.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenOptions.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:06:37.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:49:46.194Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABZAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:08:48.491Z",
+              "WhenOpened": "2024-08-07T10:52:06.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Concrete\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Concrete\\Category.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Hashing\\HashingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T05:58:08.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T09:31:10.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EfUserDal.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "DocumentIndex": 5,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:02:35.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T09:27:55.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\AuthManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\AuthManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:00:28.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:46:04.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IUserService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IUserService.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IUserService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:44:46.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EfProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:27:01.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IOperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IOperationClaim.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IOperationClaim.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IOperationClaim.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IOperationClaim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T05:59:54.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:34:38.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserOperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserOperationClaim.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserOperationClaim.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserOperationClaim.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IUserOperationClaim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T05:58:56.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUserDal.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IUserDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T05:58:34.483Z",
+              "WhenOpened": "2024-08-07T09:22:41.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AccessToken.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:15:46.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T09:18:02.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IEntityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
-              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:34:16.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:56:49.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:32:59.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserOperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:32:59.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:33:01.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IDto.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\IDto.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\IDto.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\IDto.cs",
-              "RelativeToolTip": "Core\\Entities\\IDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:59:00.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "UserForRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Dtos\\UserForRegisterDto.cs",
               "RelativeDocumentMoniker": "Entities\\Dtos\\UserForRegisterDto.cs",
@@ -494,25 +272,311 @@
               "RelativeToolTip": "Entities\\Dtos\\UserForRegisterDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:00:04.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T07:00:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\IDto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IDto.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\IDto.cs",
+              "RelativeToolTip": "Core\\Entities\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:59:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:49:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:25:41.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:17:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:49:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encyption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:24:22.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encyption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:29:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:54:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:06:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:08:48.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:58:08.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:02:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:00:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:46:04.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:44:46.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:27:01.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IOperationClaim.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IOperationClaim.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:59:54.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "UserForLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
-              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
-              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:56:49.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:34:38.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "IUserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserOperationClaim.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserOperationClaim.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IUserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:58:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:58:34.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:15:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:34:16.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:33:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Abstract\\IProductService.cs",
               "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
@@ -520,25 +584,11 @@
               "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:44:56.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:44:56.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:49:58.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "EfCategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
@@ -546,12 +596,11 @@
               "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:26:59.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:26:59.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ktetik\\Desktop\\NorthwindBackend\\Entities\\Concrete\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
@@ -559,8 +608,7 @@
               "RelativeToolTip": "Entities\\Concrete\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T05:58:13.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T05:58:13.766Z"
             }
           ]
         }

@@ -80,3 +80,4 @@ C:\Users\ktetik\Desktop\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.csproj.A
 C:\Users\ktetik\Desktop\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
 C:\Users\ktetik\Desktop\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
 C:\Users\ktetik\Desktop\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ktetik\Desktop\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
