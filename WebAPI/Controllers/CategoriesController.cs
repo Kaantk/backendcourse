@@ -9,9 +9,9 @@ namespace WebAPI.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private ICategoriesService _categoriesService;
+        private ICategoryService _categoriesService;
 
-        public CategoriesController(ICategoriesService categoriesService)
+        public CategoriesController(ICategoryService categoriesService)
         {
             _categoriesService = categoriesService;
         }
@@ -56,7 +56,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("add")]
-        public IActionResult Add(Categories category)
+        public IActionResult Add(Category category)
         {
             var result = _categoriesService.Add(category);
 
@@ -69,7 +69,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("delete")]
-        public IActionResult Delete(Categories category)
+        public IActionResult Delete(Category category)
         {
             var result = _categoriesService.Delete(category);
 
@@ -82,7 +82,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("update")]
-        public IActionResult Update(Categories category)
+        public IActionResult Update(Category category)
         {
             var result = _categoriesService.Update(category);
 

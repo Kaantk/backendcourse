@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "category",
-        "Type": "Entities.Concrete.Categories",
+        "Type": "Entities.Concrete.Category",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "category",
-        "Type": "Entities.Concrete.Categories",
+        "Type": "Entities.Concrete.Category",
         "IsRequired": true
       }
     ],
@@ -83,7 +83,7 @@
     "Parameters": [
       {
         "Name": "category",
-        "Type": "Entities.Concrete.Categories",
+        "Type": "Entities.Concrete.Category",
         "IsRequired": true
       }
     ],

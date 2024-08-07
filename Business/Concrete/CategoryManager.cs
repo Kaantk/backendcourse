@@ -12,46 +12,46 @@ using System.Threading.Tasks;
 
 namespace Business.Concrete
 {
-    public class CategoriesManager : ICategoriesService
+    public class CategoryManager : ICategoryService
     {
-        private ICategoriesDal _categoriesDal;
+        private ICategoryDal _categoriesDal;
 
-        public CategoriesManager(ICategoriesDal categoriesDal)
+        public CategoryManager(ICategoryDal categoriesDal)
         {
             _categoriesDal = categoriesDal;
         }
 
-        public IDataResult<Categories> GetById(int categoryId)
+        public IDataResult<Category> GetById(int categoryId)
         {
-            return new SuccessDataResult<Categories>(_categoriesDal.Get(p => p.CategoryId == categoryId));
+            return new SuccessDataResult<Category>(_categoriesDal.Get(p => p.CategoryId == categoryId));
         }
 
-        public IResult Add(Categories category)
+        public IResult Add(Category category)
         {
             _categoriesDal.Add(category);
             return new SuccessResult(true, Messages.CategoryAdded);
         }
 
-        public IResult Delete(Categories category)
+        public IResult Delete(Category category)
         {
             _categoriesDal.Delete(category);
             return new SuccessResult(true, Messages.CategoryDeleted);
         }
 
-        public IResult Update(Categories category)
+        public IResult Update(Category category)
         {
             _categoriesDal.Update(category);
             return new SuccessResult(true, Messages.CategoryUpdated);
         }
 
-        public IDataResult<List<Categories>> GetList()
+        public IDataResult<List<Category>> GetList()
         {
-            return new SuccessDataResult<List<Categories>>(_categoriesDal.GetList().ToList());
+            return new SuccessDataResult<List<Category>>(_categoriesDal.GetList().ToList());
         }
 
-        public IDataResult<List<Categories>> GetListByCategory(int categoryId)
+        public IDataResult<List<Category>> GetListByCategory(int categoryId)
         {
-            return new SuccessDataResult<List<Categories>>(_categoriesDal.GetList(p => p.CategoryId == categoryId).ToList());
+            return new SuccessDataResult<List<Category>>(_categoriesDal.GetList(p => p.CategoryId == categoryId).ToList());
         }
 
     }
